@@ -1,0 +1,15 @@
+# docker-compose.yml
+version: '3.8'
+
+services:
+  fleetsim:
+    build: .
+    ports:
+      - "8001:8000"
+    volumes:
+      - ./app:/app
+      - ./data:/app/data
+    environment:
+      - ENVIRONMENT=development
+      - PYTHONPATH=/app
+    command: uvicorn main:app --host 0.0.0.0 --port 8000 --reload

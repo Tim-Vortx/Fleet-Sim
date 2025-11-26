@@ -1,0 +1,24 @@
+﻿Vehicle ID,Vehicle OEM,Vehicle Model,Vehicle kWh,Vehicle Range,Vehicle Efficiency,Vehicle Route Miles,Vehicle Dwell Start,Vehicle Dwell End,Vehicle Start Charge,Vehicle End Charge
+1,Volvo,VNR,565,275,2.054545455,100,4:00 AM,3:00 PM,6:00 AM,8:00 AM
+2,Volvo,VNR,565,275,2.054545455,70,6:00 AM,3:00 PM,8:00 AM,10:00 AM
+3,Volvo,VNR,565,275,2.054545455,150,5:00 AM,3:00 PM,7:00 AM,9:00 AM
+4,Volvo,VNR,565,275,2.054545455,138,7:00 AM,3:00 PM,9:00 AM,11:00 AM
+5,Volvo,VNR,565,275,2.054545455,92,10:00 AM,3:00 PM,12:00 PM,2:00 PM
+6,Volvo,VNR,565,275,2.054545455,98,5:00 AM,3:00 PM,7:00 AM,9:00 AM
+7,Volvo,VNR,565,275,2.054545455,110,5:00 AM,3:00 PM,7:00 AM,9:00 AM
+8,Volvo,VNR,565,275,2.054545455,125,9:00 AM,3:00 PM,11:00 AM,1:00 PM
+9,Volvo,VNR,565,275,2.054545455,194,11:00 AM,3:00 PM,1:00 PM,3:00 PM
+10,Volvo,VNR,565,275,2.054545455,234,4:00 AM,3:00 PM,6:00 AM,8:00 AM
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

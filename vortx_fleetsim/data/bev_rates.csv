@@ -1,0 +1,4 @@
+Rate Option,Peak Rate ($/kWh),Off-Peak Rate ($/kWh),Super Off-Peak Rate ($/kWh),Subscription Charge per Block ($),Subscription Charge per kW ($),Overage Fee per kW ($)
+BEV-1,0.38372,0.19171,0.16505,12.41,1.24,2.48
+BEV-2-S (Secondary),0.39785,0.18462,0.16135,95.56,1.91,3.82
+BEV-2-P (Primary / Transmission),0.38863,0.17975,0.15709,85.98,1.72,3.44
